@@ -1,0 +1,82 @@
+[Filosofo 0] Esta pensando...
+[Filosofo 1] Esta pensando...
+[Filosofo 2] Esta pensando...
+[Filosofo 3] Esta pensando...
+[Filosofo 4] Esta pensando...
+[Filosofo 1] Tomo tenedor derecho (2)
+[Filosofo 1] Tomo tenedor izquierdo (1)
+  --> [Filosofo 1] COMIENDO (comida 1 de 3)
+[Filosofo 0] Tomo tenedor izquierdo (0)
+[Filosofo 4] Tomo tenedor izquierdo (4)
+[Filosofo 1] Termino de comer y solto tenedores (1 y 2)
+[Filosofo 1] Esta pensando...
+[Filosofo 0] Tomo tenedor derecho (1)
+  --> [Filosofo 0] COMIENDO (comida 1 de 3)
+[Filosofo 2] Tomo tenedor izquierdo (2)
+[Filosofo 2] Tomo tenedor derecho (3)
+  --> [Filosofo 2] COMIENDO (comida 1 de 3)
+[Filosofo 2] Termino de comer y solto tenedores (2 y 3)
+[Filosofo 2] Esta pensando...
+[Filosofo 1] Tomo tenedor derecho (2)
+[Filosofo 4] Tomo tenedor derecho (0)
+  --> [Filosofo 4] COMIENDO (comida 1 de 3)
+[Filosofo 0] Termino de comer y solto tenedores (0 y 1)
+[Filosofo 0] Esta pensando...
+[Filosofo 1] Tomo tenedor izquierdo (1)
+  --> [Filosofo 1] COMIENDO (comida 2 de 3)
+[Filosofo 4] Termino de comer y solto tenedores (4 y 0)
+[Filosofo 4] Esta pensando...
+[Filosofo 3] Tomo tenedor derecho (4)
+[Filosofo 3] Tomo tenedor izquierdo (3)
+  --> [Filosofo 3] COMIENDO (comida 1 de 3)
+[Filosofo 0] Tomo tenedor izquierdo (0)
+[Filosofo 0] Tomo tenedor derecho (1)
+  --> [Filosofo 0] COMIENDO (comida 2 de 3)
+[Filosofo 1] Termino de comer y solto tenedores (1 y 2)
+[Filosofo 1] Esta pensando...
+[Filosofo 2] Tomo tenedor izquierdo (2)
+[Filosofo 3] Termino de comer y solto tenedores (3 y 4)
+[Filosofo 3] Esta pensando...
+[Filosofo 2] Tomo tenedor derecho (3)
+  --> [Filosofo 2] COMIENDO (comida 2 de 3)
+[Filosofo 0] Termino de comer y solto tenedores (0 y 1)
+[Filosofo 0] Esta pensando...
+[Filosofo 4] Tomo tenedor izquierdo (4)
+[Filosofo 4] Tomo tenedor derecho (0)
+  --> [Filosofo 4] COMIENDO (comida 2 de 3)
+[Filosofo 1] Tomo tenedor derecho (2)
+[Filosofo 1] Tomo tenedor izquierdo (1)
+  --> [Filosofo 1] COMIENDO (comida 3 de 3)
+[Filosofo 2] Termino de comer y solto tenedores (2 y 3)
+[Filosofo 2] Esta pensando...
+[Filosofo 4] Termino de comer y solto tenedores (4 y 0)
+[Filosofo 4] Esta pensando...
+[Filosofo 3] Tomo tenedor derecho (4)
+[Filosofo 3] Tomo tenedor izquierdo (3)
+  --> [Filosofo 3] COMIENDO (comida 2 de 3)
+[Filosofo 0] Tomo tenedor izquierdo (0)
+[Filosofo 1] Termino de comer y solto tenedores (1 y 2)
+*** [Filosofo 1] Satisfecho, se retira de la mesa ***
+[Filosofo 0] Tomo tenedor derecho (1)
+  --> [Filosofo 0] COMIENDO (comida 3 de 3)
+[Filosofo 3] Termino de comer y solto tenedores (3 y 4)
+[Filosofo 3] Esta pensando...
+[Filosofo 4] Tomo tenedor izquierdo (4)
+[Filosofo 2] Tomo tenedor izquierdo (2)
+[Filosofo 2] Tomo tenedor derecho (3)
+  --> [Filosofo 2] COMIENDO (comida 3 de 3)
+[Filosofo 2] Termino de comer y solto tenedores (2 y 3)
+*** [Filosofo 2] Satisfecho, se retira de la mesa ***
+[Filosofo 0] Termino de comer y solto tenedores (0 y 1)
+*** [Filosofo 0] Satisfecho, se retira de la mesa ***
+[Filosofo 4] Tomo tenedor derecho (0)
+  --> [Filosofo 4] COMIENDO (comida 3 de 3)
+[Filosofo 4] Termino de comer y solto tenedores (4 y 0)
+*** [Filosofo 4] Satisfecho, se retira de la mesa ***
+[Filosofo 3] Tomo tenedor derecho (4)
+[Filosofo 3] Tomo tenedor izquierdo (3)
+  --> [Filosofo 3] COMIENDO (comida 3 de 3)
+[Filosofo 3] Termino de comer y solto tenedores (3 y 4)
+*** [Filosofo 3] Satisfecho, se retira de la mesa ***
+
+Todos los filosofos terminaron de cenar sin interbloqueo.
