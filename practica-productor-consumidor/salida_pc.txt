@@ -1,0 +1,42 @@
+[Productor 1] Produjo: 101 en posicion 0
+  --> [Consumidor 1] Consumio: 101 de posicion 0
+[Productor 2] Produjo: 201 en posicion 1
+  --> [Consumidor 2] Consumio: 201 de posicion 1
+[Productor 1] Produjo: 102 en posicion 2
+[Productor 2] Produjo: 202 en posicion 3
+  --> [Consumidor 2] Consumio: 102 de posicion 2
+  --> [Consumidor 1] Consumio: 202 de posicion 3
+[Productor 1] Produjo: 103 en posicion 4
+[Productor 2] Produjo: 203 en posicion 0
+[Productor 1] Produjo: 104 en posicion 1
+[Productor 2] Produjo: 204 en posicion 2
+  --> [Consumidor 1] Consumio: 103 de posicion 4
+  --> [Consumidor 2] Consumio: 203 de posicion 0
+[Productor 1] Produjo: 105 en posicion 3
+[Productor 2] Produjo: 205 en posicion 4
+  --> [Consumidor 2] Consumio: 104 de posicion 1
+  --> [Consumidor 1] Consumio: 204 de posicion 2
+[Productor 1] Produjo: 106 en posicion 0
+[Productor 2] Produjo: 206 en posicion 1
+  --> [Consumidor 2] Consumio: 105 de posicion 3
+  --> [Consumidor 1] Consumio: 205 de posicion 4
+[Productor 1] Produjo: 107 en posicion 2
+[Productor 2] Produjo: 207 en posicion 3
+[Productor 1] Produjo: 108 en posicion 4
+  --> [Consumidor 2] Consumio: 106 de posicion 0
+[Productor 2] Produjo: 208 en posicion 0
+  --> [Consumidor 1] Consumio: 206 de posicion 1
+[Productor 1] Produjo: 109 en posicion 1
+  --> [Consumidor 2] Consumio: 107 de posicion 2
+[Productor 2] Produjo: 209 en posicion 2
+  --> [Consumidor 1] Consumio: 207 de posicion 3
+[Productor 1] Produjo: 110 en posicion 3
+  --> [Consumidor 2] Consumio: 108 de posicion 4
+[Productor 2] Produjo: 210 en posicion 4
+  --> [Consumidor 1] Consumio: 208 de posicion 0
+  --> [Consumidor 2] Consumio: 109 de posicion 1
+  --> [Consumidor 1] Consumio: 209 de posicion 2
+  --> [Consumidor 2] Consumio: 110 de posicion 3
+  --> [Consumidor 1] Consumio: 210 de posicion 4
+
+Ejecucion finalizada correctamente (20 items producidos y 20 consumidos).
